@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceSourceControlBound="true" SourceSourceControlProviderType="Git" SourceSourceControlDatabase="file:///C:/Users/rallahwerdy/AppData/Local/MadCap Software/NewProject745/.git/" SourceSourceControlDatabaseRoot="git@github.com:RamyB2014/proxy.git" SourceProjectGuid="0a890778-388d-4f20-bfd4-e8b0bb846472" SourceControlDatabaseRoot="E:\C-Drive\rbutros\Documents\My Translated Projects\NewProject745.liprjf" SourceControlDatabase="E:\C-Drive\rbutros\Documents\My Translated Projects\NewProject745.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="910fa0cc-36a7-455e-ad9b-cfd987c934a5">
+    <ProjectFile Source="Target/LingoTest1.flprj" Target="Target/LingoTest1.flprj" />
+</LingoProject>
